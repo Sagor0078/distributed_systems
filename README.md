@@ -1,1 +1,1 @@
-## Distributed task schedular using go, gRPC and badgerDB
+### MIT 6.824 Distributed Systems 
